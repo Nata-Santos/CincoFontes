@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color:snow;
+}
+
+h1{
+    font-size: 52px;
+}
+
+h2, h1{
+    text-align: center;
+    text-shadow: 4px 4px 0 rgb(75, 73, 73);
+}
+
+p{
+    text-align: justify;
+}
+
+.fonte1{
+    font-family: Arial, helvetica, sans-serif;
+}
+
+.fonte2{
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+.fonte3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.fonte4{
+    font-family: 'Dancing Script', cursive;
+}
+
+.fonte5{
+    font-family: 'Rampart One',fantasy;
+}
